@@ -1,4 +1,4 @@
-# Foodfy
+# Foodfy do Xanxan
 
 <p>Aprenda a construir os melhores pratos com receitas criadas por profissionais do mundo inteiro.</p>
 
